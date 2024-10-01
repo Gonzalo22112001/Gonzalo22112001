@@ -26,7 +26,7 @@
   <br>
   🎓 I graduated from Valencia University, Department of Economy, degree of Business and Management.
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  🎓 I graduated from Sydney's Albright University, Department of English (Advanced Level Certificated).
   <br>
   🎓 I graduated from Erzurum İbrahim Hakkı Science High School
   <br>
