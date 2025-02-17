@@ -12,8 +12,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="www.linkedin.com/in/
-gonzalolopezblanquer" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="www.linkedin.com/in/gonzalolopezblanquer" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
