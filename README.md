@@ -19,24 +19,22 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Gonzalo López, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Gonzalo López, Machine Learning Engineer & Computer Vision Engineer
   <br>
   <br>
-  🔬 I'm currently studying for my master of AI at EDEM University.
+  🔬 I'm currently studying for my AI Master's Degree at EDEM University.
   <br>
   🎓 I graduated from Valencia University, Department of Economy, degree of Business and Management.
   <br>
   🎓 I graduated from Sydney's Albright University, Department of English (Advanced Level Certificated).
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love learning new technologies and be updated of cutting-edge topics.
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: g.lopezblanquer@gmail.com">g.lopezblanquer@gmail.com</a>
 </p>
 
 <hr>
